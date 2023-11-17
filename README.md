@@ -1,6 +1,7 @@
 <h1>Application</h1>
 <p>
-    <i>The application was created by me to understand the basics of Typescript. Classic Todolist without a special graphical interface, meanwhile with typing functionality</i>
+    <i>The application was created to understand the basics of TypeScript. <br>
+    Classic Todolist without a special graphical interface, meanwhile with typing functionality.</i>
 </p>
 <hr>
 <div>
