@@ -8,7 +8,6 @@
             <ul>
                 <li><i>React</i></li>
                 <li><i>TypeScript</i></li>
-                <li><i>npm uuid</i></li>
             </ul>
             <h2>Installed npm packages</h2>
             <ul>
